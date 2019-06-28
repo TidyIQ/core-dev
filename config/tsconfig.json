@@ -1,16 +1,15 @@
 {
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
-    "jsx": "preserve",
-    "lib": ["dom", "es6"],
-    "module": "es6",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "module": "esnext",
     "moduleResolution": "node",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "outDir": "../../../../dist",
-    "removeComments": false,
     "strict": true,
-    "target": "es6"
+    "target": "ES2017"
   },
   "exclude": ["**/dist/*"]
 }
