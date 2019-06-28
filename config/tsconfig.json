@@ -14,5 +14,6 @@
     "rootDir": "src",
     "strict": true,
     "target": "es5"
-  }
+  },
+  "exclude": ["dist"]
 }
