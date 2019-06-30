@@ -3,13 +3,11 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "jsx": "react",
-    "module": "esnext",
     "moduleResolution": "node",
+    "outDir": "../../../../dist",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "../../../../dist",
-    "strict": true,
-    "target": "ES2017"
+    "rootDir": "../../../../src"
   },
-  "exclude": ["**/dist/*"]
+  "exclude": ["../../../../dist"]
 }
