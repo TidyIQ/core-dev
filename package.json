@@ -1,6 +1,6 @@
 {
   "name": "@tidyiq/core-dev",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "Core development tools for all websites and web apps",
   "keywords": [
     "tidyiq"
@@ -17,9 +17,8 @@
     "url": "https://github.com/TidyIQ/core-dev/issues"
   },
   "dependencies": {
-    "@tidyiq/eslint-config": "^2.0.1",
+    "@tidyiq/eslint-config": "^2.0.2",
     "@types/material-ui": "^0.21.6",
-    "@types/next": "^8.0.5",
     "@types/node": "^12.0.10",
     "@types/react": "^16.8.22",
     "@types/react-dom": "^16.8.4",
