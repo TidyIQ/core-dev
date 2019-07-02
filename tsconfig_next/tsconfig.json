@@ -1,4 +1,4 @@
 {
   "extends": "../tsconfig_es6/tsconfig.json",
-  "exclude": ["../../../../state", "../../../../theme"]
+  "exclude": ["../../../../src/state", "../../../../src/theme"]
 }
