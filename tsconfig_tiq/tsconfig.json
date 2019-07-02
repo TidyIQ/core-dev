@@ -1,0 +1,4 @@
+{
+  "extends": "../tsconfig_es5/tsconfig.json",
+  "include": ["../../../../state", "../../../../theme"]
+}
