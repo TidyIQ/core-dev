@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "lib": ["es6", "dom"],
     "target": "es5"
   },
   "extends": "../tsconfig_base/tsconfig.json"

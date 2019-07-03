@@ -1,5 +1,7 @@
 {
-  "extends": "../tsconfig_es6/tsconfig.json",
-  "include": ["../../../../src"],
-  "exclude": ["../../../../src/state", "../../../../src/theme"]
+  "compilerOptions": {
+    "removeComments": true
+  },
+  "extends": "../tsconfig_es5/tsconfig.json",
+  "include": ["../../../../src"]
 }

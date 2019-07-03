@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "module": "esnext",
     "target": "es2017"
   },
   "extends": "../tsconfig_base/tsconfig.json"
