@@ -1,7 +1,4 @@
 {
-  "compilerOptions": {
-    "removeComments": true
-  },
   "extends": "../tsconfig_es5/tsconfig.json",
   "include": ["../../../../src"]
 }
